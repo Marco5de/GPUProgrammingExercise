@@ -1,4 +1,4 @@
 .idea/
-
+**/*.pdf
 **/__pycache__/
 **/*.obj
