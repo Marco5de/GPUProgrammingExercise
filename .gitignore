@@ -1,4 +1,5 @@
 .idea/
-**/*.pdf
-**/__pycache__/
+venv
+*.pdf
+__pycache__
 **/*.obj
